@@ -1,6 +1,6 @@
-# Evelyn
+# MOSAX Landing page
 
-A landing page template.
+A landing page with information about the MosaX project.
 
 * [Getting started](#getting-started)
 
